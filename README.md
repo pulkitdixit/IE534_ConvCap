@@ -43,139 +43,139 @@ Caption:  a man riding a skateboard down a street
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a young boy swinging a bat at a baseball
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a car is parked in the street with a dog
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a man is playing tennis on a clay court
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a man and a woman are playing frisbee in a field
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a group of people sitting around a table with a cake
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a zebra standing in a dirt field next to a fence
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a dog laying on a bed with a stuffed animal
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption:  a cow standing in a field next to a tree
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a blue bird sitting on top of a blue chair
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a train traveling down a track near a forest
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: an elephant standing on a cement ground next to a fence
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a teddy bear sitting next to a teddy bear
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a man in a suit and tie is talking on a cell phone
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a young man is holding a tennis racket
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a motorcycle parked on the side of a road
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a black bear walking through a field of grass
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a truck with a trailer on the back of it
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a man in a green shirt and a green shirt and a
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a remote control sitting on a table next to a remote control
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a large commercial airplane flying in the sky
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a man in a suit cases and a man in a suit
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a man is doing a trick on a skateboard
 
 
 
 ![Image2](/test2014/COCO_test2014_000000000014.jpg)
 
-Caption:
+Caption: a man is playing tennis on a tennis court
 
 
 ### Code
