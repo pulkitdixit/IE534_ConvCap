@@ -33,4 +33,12 @@ Shown below are a few examples of images that we captioned in our test set, as c
 
 ### Code
 
-The code for the ConvCap model can be found in (this Github Repo)[https://github.com/jkaikaus/ie534_final]
+The code for the ConvCap model can be found in [this Github Repo](https://github.com/jkaikaus/ie534_final)
+
+### Contact
+
+The creators of this new tuned model can be contacted at:  
+Pulkit Dixit (pulkitd2@illinois.edu)  
+Jamshed Kaikaus  
+Qasim Nazir  
+Ashwin Ramesh  
