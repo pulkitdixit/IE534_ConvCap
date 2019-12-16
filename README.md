@@ -20,8 +20,17 @@ To generate possibly better accuracies, we used newer and deeper encoders than t
 
 ### Parameters Tuned
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pulkitdixit/IE534_ConvCap/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The hyperparameters tuned during our experiments are:
+* Temperature
+* Attention/No attention
+* Beam search value
+* Number of captions per image
+* Number of layers in the decoder CNN module
 
 ### Captioned Images
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Shown below are a few examples of images that we captioned in our test set, as compared to images captioned by the original authors:
+
+### Code
+
+The code for the ConvCap model can be found in (this Github Repo)[https://github.com/jkaikaus/ie534_final]
