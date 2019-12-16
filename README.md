@@ -178,10 +178,6 @@ Caption: a man is doing a trick on a skateboard
 Caption: a man is playing tennis on a tennis court
 
 
-### Code
-
-The code for the ConvCap model can be found in [this Github Repo](https://github.com/jkaikaus/ie534_final)
-
 ### Contact
 
 The creators of this new tuned model can be contacted at:  
