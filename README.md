@@ -39,6 +39,6 @@ The code for the ConvCap model can be found in [this Github Repo](https://github
 
 The creators of this new tuned model can be contacted at:  
 Pulkit Dixit (pulkitd2@illinois.edu)  
-Jamshed Kaikaus (kaikaus2@illinois.edu)
-Qasim Nazir (qnazir2@illinois.edu)
-Ashwin Ramesh (aramesh7@illinois.edu)  
+Jamshed Kaikaus (kaikaus2@illinois.edu)  
+Qasim Nazir (qnazir2@illinois.edu)  
+Ashwin Ramesh (aramesh7@illinois.edu)    
